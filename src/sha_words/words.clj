@@ -11,7 +11,7 @@
    "acceptance", "accessory", "accident", "active", "address", "adjacent", "adventure", "advice", "age", "agent",
    "agency", "ago", "allowance", "along", "also", "alternative", "always", "ambition", "amplitude",
    "anchor", "ankle", "appendage", "application", "approximation", "arbitration", "arbitrary", "arc", "area", "arrangement",
-   "ash", "asset", "assistant", "average", "awkward", "axis", "aftereffect", "afftertaste", "afterthought", "aircushion",
+   "ash", "asset", "assistant", "average", "awkward", "axis", "aftereffect", "aftertaste", "afterthought", "aircushion",
    "airman", "airmen", "airplane", "airtight", "another", "anybody", "anyhow", "anyone", "anything", "anywhere",
    "away", "actor", "acting", "baby", "back", "bad", "bag", "balance", "ball", "band",
    "base", "basin", "basket", "bath", "be", "beautiful", "because", "bed", "bee", "been",
