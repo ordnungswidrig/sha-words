@@ -1,0 +1,6 @@
+{:paths ["src" "classes"]
+ :deps {org.clojure/clojure {:mvn/version "1.10.0"}}
+ :aliases {
+    :uberdeps {
+      :extra-deps {uberdeps/uberdeps {:mvn/version "1.0.2"}}
+      :main-opts ["-m" "uberdeps.uberjar"]}}}
